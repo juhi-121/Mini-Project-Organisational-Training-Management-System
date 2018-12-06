@@ -1,0 +1,20 @@
+.i1 .s1{
+	visibility: hidden;
+	width: 120px;
+	color:pink;
+	background-color: white;
+	text-align: center;
+	border-radius: 6px;
+	padding: 0px 5px;
+	bottom: 100%;
+	margin-left: -60px;
+	left: 50%;
+	z-index: 1;
+	opacity: 0;
+	transition: opacity 1s;
+}
+
+.i1:hover .s1{
+	visibility: visible;
+	opacity: 1;
+}

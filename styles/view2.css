@@ -1,0 +1,148 @@
+<style>
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+div #header{
+	width:100%;
+	height: 50px;
+	background-color: #8C4985;
+	margin: 0 auto;
+}
+*{
+	text-decoration: none;
+}
+ div p{
+	font-size: 1.6em;
+	color: white;
+	padding: 7px;
+	font-family: 'Inconsolata', monospace;
+}
+div#container{
+	width: 100%;
+	margin: 0 auto;
+	position: fixed;
+}
+.nav{
+	width:250px; 
+	height:150%;
+	background-color: #553451;
+	float: left;
+	position: fixed;
+}
+
+ul li{
+	border-bottom-color: white;
+	border-spacing: 100px;
+}
+
+.a2{
+ 	padding: 20px;
+	display: block;
+	border-spacing: 100px;
+	border-bottom-color: white;	
+	color: white;
+	border-bottom: 1px solid white;
+	text-align:  center;
+	font-family: 'Roboto', sans-serif;
+
+}
+ul li a{
+	-webkit-transition:0.2s;
+	-moz-transition:0.2s;
+	-o-transition:0.2s;
+	transition:0.2s;
+}
+.a1{
+	float: left;color:blue;
+	-webkit-transition:0.2s;
+	-moz-transition:0.2s;
+	-o-transition:0.2s;
+	transition:0.2s;
+	background-color: pink;
+}
+a:hover{
+	background-color: white;
+	color: #AD7FA8;
+}
+
+.a1:hover{
+	background-color: pink;
+	color: #AD7FA8;
+
+}
+.a3{
+
+}
+#active{
+	background-color: white;
+	color: #4C6483;
+}
+.t1{
+	color: white;
+}
+.content{
+	width: auto;
+	height: 700px;
+	margin-left: 250px;
+	background-image:url("abstract_background_266985.jpg");
+	font-family: 'Chakra Petch', sans-serif;
+	background-position: center;
+	background-repeat:no-repeat;
+	background-size: cover;
+
+	padding: 20px;
+	text-align:center;
+}
+
+table{
+	float: left;
+	border-collapse: collapse;
+	font-family: arial, sans-serif;
+	border:none;
+	width: 100%;
+	padding: 1px;
+}
+td,th{
+	text-align:center;
+	padding:1px;
+	font-family: 'PT Sans', sans-serif;
+}
+td{
+	color: blue;
+	width: 750px;
+}
+
+.u1{
+	display: inline-block;
+	list-style-type: square;
+	border-bottom: none;
+}
+.b1{
+	padding: 8px;
+	border:1px solid #976E92; 
+	font-size:15px;
+	color: blue;
+	font-family: 'Dancing Script', cursive;
+
+}
+
+.formContent{
+	font-family: 'Chakra Petch', sans-serif;
+}
+
+.lgn{
+	font-family: 'Chakra Petch', sans-serif;
+	font-size: 20px;
+	color: white;
+	border-radius: 12px;
+	width: 100px;
+	background-color: blue;
+}
+
+.lgn:hover{
+	background-color: green;
+}
+
+</style>

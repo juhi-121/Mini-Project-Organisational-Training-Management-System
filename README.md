@@ -14,3 +14,8 @@ A training management system for organisations to keep track of the progress of 
     1. Add a new employee
     2. Remove employee details
     3. Add new courses
+
+## Group members:
+[Sahil Jajodia](https://github.com/sahiljajodia01)
+[Aditya Jeswani](https://github.com/AdityaJ42/)
+[Juhi Kehriwal](https://github.com/juhi-121)
